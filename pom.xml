@@ -85,8 +85,8 @@
 		            <version>2.13.0</version>
 		            <configuration>
 		                <schemaVersion>v2</schemaVersion>
-		                <resourceGroup>cloud-shell-storage-westeurope</resourceGroup>
-		                <appName>ai</appName>
+		                <resourceGroup>AI-Resource</resourceGroup>
+		                <appName>AI-App</appName>
 		            </configuration>
 		        </plugin>
 		</plugins>
